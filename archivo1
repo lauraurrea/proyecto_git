@@ -1,6 +1,11 @@
 hola, soy archivo 1.
+<<<<<<< HEAD
 sigue archivo 1
 codigo - subir imagen1
+=======
+sigue archivo 2
+cogido - subir imagen
+>>>>>>> subir_imagen
 codigo
 codigo
 cosigo
